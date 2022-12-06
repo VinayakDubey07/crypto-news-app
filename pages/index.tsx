@@ -10,7 +10,7 @@ export default function Home() {
           Crypto News <span className="text-active">App</span>
         </h1>
         <h2 className="text-active text-2xl mt-6">
-          Next.js app which provides information latest news about Crypto using
+          A portal made by Vinayak and Utkarsh which provides information latest news about Crypto using
           Cryptocurrency API
         </h2>
 <div className="mt-12 sm:mx-auto justify-center sm:w-full sm:flex">
